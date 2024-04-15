@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MaxA
-- 👀 I’m interested in TS/JS/C/CS
+- 👀 I’m interested in JS/TS/Lua/C/CS
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on undefined
 - 📫 How to reach me null
